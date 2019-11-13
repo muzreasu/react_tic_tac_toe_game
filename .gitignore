@@ -27,4 +27,3 @@ yarn-error.log*
 .idea/modules.xml
 .idea/my-app.iml
 .idea/vcs.xml
-src/square.js
